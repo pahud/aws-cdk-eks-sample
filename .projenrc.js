@@ -1,8 +1,8 @@
 const { AwsCdkTypeScriptApp } = require('projen');
 
 const project = new AwsCdkTypeScriptApp({
-  cdkVersion: "1.75.0",
-  name: "aws-cdk-eks-sample",
+  cdkVersion: '1.75.0',
+  name: 'aws-cdk-eks-sample',
   cdkDependencies: [
     '@aws-cdk/aws-autoscaling',
     '@aws-cdk/aws-ec2',

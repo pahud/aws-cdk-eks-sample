@@ -964,9 +964,9 @@
   integrity sha512-T8TbSnGsxo6TDBJx/Sgv/BlVJL3tshxZP7Aq5R1mSnM5OcHY2dQaxLMu2+E8u3gN0MLOzdjurqN4ZRVuzQycOQ==
 
 "@sinonjs/commons@^1.7.0":
-  version "1.8.1"
-  resolved "https://registry.yarnpkg.com/@sinonjs/commons/-/commons-1.8.1.tgz#e7df00f98a203324f6dc7cc606cad9d4a8ab2217"
-  integrity sha512-892K+kWUUi3cl+LlqEWIDrhvLgdL79tECi8JZUyq6IviKy/DNhuzCRlbHUjxK89f4ypPMMaFnFuR9Ie6DoIMsw==
+  version "1.8.2"
+  resolved "https://registry.yarnpkg.com/@sinonjs/commons/-/commons-1.8.2.tgz#858f5c4b48d80778fde4b9d541f27edc0d56488b"
+  integrity sha512-sruwd86RJHdsVf/AtBoijDmUqJp3B6hF/DGC23C+JaegnDHaZyewCjoVGTdg3J0uz3Zs7NnIT05OBOmML72lQw==
   dependencies:
     type-detect "4.0.8"
 
@@ -1477,9 +1477,9 @@ aws-cdk@^1.82.0:
     yargs "^16.2.0"
 
 aws-sdk@^2.824.0:
-  version "2.826.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.826.0.tgz#000064f8c3a272dac3a8547b1bd4dac4a113fc69"
-  integrity sha512-fuNWmD9gfqrxxPbIIbbTeyEDGaKLqFG9kTXqdaPVpEZhH1xc2UwVJQRA7m+SwfQOcQd6hdS1ii0102DrPiFEdg==
+  version "2.827.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.827.0.tgz#372e37cabf0e8351de6d8f07a8f519bfaaeeae2a"
+  integrity sha512-71PWS1dqJ65/SeNgDQWEgbJ6oKCuB+Ypq30TM3EyzbAHaxl69WjQRK71oJ2bjhdIHfGQJtOV0G9wg4zpge4Erg==
   dependencies:
     buffer "4.9.2"
     events "1.1.1"
@@ -1963,9 +1963,9 @@ concat-stream@^2.0.0:
     typedarray "^0.0.6"
 
 constructs@^3.2.0:
-  version "3.2.100"
-  resolved "https://registry.yarnpkg.com/constructs/-/constructs-3.2.100.tgz#6d518661112f5f1aecd1e8255f993aebf7f88448"
-  integrity sha512-gZI7tf+f/OIrfVPslIlcd7sx5RYAVME/3VxdJOfTT+16Q1U9xuvlVXLgnnecq9lWdQ0hTDSznP4rMOQHikUGew==
+  version "3.2.101"
+  resolved "https://registry.yarnpkg.com/constructs/-/constructs-3.2.101.tgz#d42cda60d3fe5f432a3a3ab401d7a012d4eceb49"
+  integrity sha512-YJ9rZ6giIWNy7++92vQihY1UcxD3yf8f5LiqtdOswvNHyzPkT8sC6euEbN7XKfE+l0Kf3/UzqzqYMizIVDvZrw==
 
 contains-path@^0.1.0:
   version "0.1.0"
@@ -5289,10 +5289,10 @@ progress@^2.0.0:
   resolved "https://registry.yarnpkg.com/progress/-/progress-2.0.3.tgz#7e8cf8d8f5b8f239c1bc68beb4eb78567d572ef8"
   integrity sha512-7PiHtLll5LdnKIMw100I+8xJXR5gW2QwWYkT6iJva0bXitZKa/XMrSbdmg3r2Xnaidz9Qumd0VPaMrZlF9V9sA==
 
-projen@^0.14.6:
-  version "0.14.6"
-  resolved "https://registry.yarnpkg.com/projen/-/projen-0.14.6.tgz#8caf006c607b0e2b79b42191be008be18d03d9ea"
-  integrity sha512-PgNnyvwERJwWD7SyG01R2n0MyXwS3mUZaVR3txzyT3kuzH+9rxLu9T8FT/FrmFqlxe4+9sU2GKWdti0ZwCBBLw==
+projen@^0.14.7:
+  version "0.14.7"
+  resolved "https://registry.yarnpkg.com/projen/-/projen-0.14.7.tgz#1427db674a27d20c8e7c330b52315824ab68c8d3"
+  integrity sha512-zi6zjwk46OuCuZhVpC1HeGZFRnPDAxwYHxZYZyUWMCFbN1Gkdx2ajKvDRCn4Za6P8vBoP7uBr/NPHfMofBZjkQ==
   dependencies:
     "@iarna/toml" "^2.2.5"
     chalk "^4.1.0"

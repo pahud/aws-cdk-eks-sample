@@ -21,7 +21,7 @@ export class EksCluster extends Construct {
     const instanceTypes = this.node.tryGetContext('instance_type') ?
       [this.node.tryGetContext('instance_type')] : DEFAULT_INSTANCE_TYPES;
     const defaultCapacity: number = this.node.tryGetContext('default_capacity') || 2;
-    const version = eks.KubernetesVersion.V1_18;
+    const version = eks.KubernetesVersion.V1_19;
 
     // create cluster only. We'll create MNG later.
     const cluster = new eks.Cluster(this, 'Cluster', {

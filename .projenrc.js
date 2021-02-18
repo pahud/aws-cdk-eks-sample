@@ -10,6 +10,7 @@ const project = new AwsCdkTypeScriptApp({
     '@aws-cdk/aws-eks',
   ],
   dependabot: false,
+  defaultReleaseBranch: ['main'],
 });
 
 // create a custom projen and yarn upgrade workflow

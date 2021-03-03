@@ -21,29 +21,30 @@
     "diff": "npx projen diff"
   },
   "devDependencies": {
-    "@types/jest": "^26.0.15",
+    "@types/jest": "^26.0.20",
     "@types/node": "^10.17.0",
-    "@typescript-eslint/eslint-plugin": "^4.3.0",
-    "@typescript-eslint/parser": "^4.3.0",
+    "@typescript-eslint/eslint-plugin": "^4.16.1",
+    "@typescript-eslint/parser": "^4.16.1",
     "aws-cdk": "^1.82.0",
-    "eslint": "^7.14.0",
+    "eslint": "^7.21.0",
     "eslint-import-resolver-node": "^0.3.4",
-    "eslint-import-resolver-typescript": "^2.3.0",
+    "eslint-import-resolver-typescript": "^2.4.0",
     "eslint-plugin-import": "^2.22.1",
     "jest": "^26.6.3",
     "jest-junit": "^12",
-    "json-schema": "^0.2.5",
-    "projen": "^0.16.5",
-    "standard-version": "^9.0.0",
-    "ts-jest": "^26.4.4",
-    "ts-node": "^9.0.0",
-    "typescript": "^3.9.5"
+    "json-schema": "^0.3.0",
+    "projen": "^0.16.29",
+    "standard-version": "^9",
+    "ts-jest": "^26.5.2",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.2"
   },
   "dependencies": {
     "@aws-cdk/assert": "^1.82.0",
     "@aws-cdk/aws-ec2": "^1.82.0",
     "@aws-cdk/aws-eks": "^1.82.0",
-    "@aws-cdk/core": "^1.82.0"
+    "@aws-cdk/core": "^1.82.0",
+    "projen-automate-it": "^0.0.7"
   },
   "bundledDependencies": [],
   "license": "Apache-2.0",

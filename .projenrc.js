@@ -1,5 +1,5 @@
-const { Automation } = require('projen-automate-it');
 const { AwsCdkTypeScriptApp } = require('projen');
+const { Automation } = require('projen-automate-it');
 
 const AUTOMATION_TOKEN = 'PROJEN_GITHUB_TOKEN';
 
